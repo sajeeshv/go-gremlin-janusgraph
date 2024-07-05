@@ -1,4 +1,4 @@
-module go-gremlin-janusgraph
+module github.com/sajeeshv/go-gremlin-janusgraph
 
 go 1.22.4
 
